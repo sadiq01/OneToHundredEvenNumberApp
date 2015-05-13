@@ -1,0 +1,6 @@
+E:\c#\OneToHundredEvenNumberApp\OneToHundredEvenNumberApp\bin\Debug\OneToHundredEvenNumberApp.exe.config
+E:\c#\OneToHundredEvenNumberApp\OneToHundredEvenNumberApp\obj\Debug\OneToHundredEvenNumberApp.csprojResolveAssemblyReference.cache
+E:\c#\OneToHundredEvenNumberApp\OneToHundredEvenNumberApp\bin\Debug\OneToHundredEvenNumberApp.exe
+E:\c#\OneToHundredEvenNumberApp\OneToHundredEvenNumberApp\bin\Debug\OneToHundredEvenNumberApp.pdb
+E:\c#\OneToHundredEvenNumberApp\OneToHundredEvenNumberApp\obj\Debug\OneToHundredEvenNumberApp.exe
+E:\c#\OneToHundredEvenNumberApp\OneToHundredEvenNumberApp\obj\Debug\OneToHundredEvenNumberApp.pdb
